@@ -79,7 +79,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "C2185B"
+topbar_color                              : "#C2185B"
 topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
@@ -109,7 +109,7 @@ social_icons_background_color             : "#e6e6e6"
 footer_text_color                         : "#666666"
 
 
-dark_primary                              : "C2185B"
+dark_primary                              : "#C2185B"
 
 
 
