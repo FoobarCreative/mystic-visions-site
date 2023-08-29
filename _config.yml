@@ -79,7 +79,7 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : dark_primary
+topbar_color                              : "C2185B"
 topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
