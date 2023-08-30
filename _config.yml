@@ -12,8 +12,9 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon512.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_subtitle                              : AI Powered Psychic Readings
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : AI Powered Psychic Readings
+app_description                           : Welcome to Mystic Visions, your gateway to the mystical realm! Engage in captivating conversations with mystics, gain insights into your life's mysteries, and explore the hidden depths of the unknown.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
