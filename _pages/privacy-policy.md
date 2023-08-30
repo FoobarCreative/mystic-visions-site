@@ -5,6 +5,7 @@ permalink: /privacy-policy
 comments: false
 imageshadow: false
 include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
