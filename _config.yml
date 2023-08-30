@@ -38,8 +38,9 @@ features                                  :
 
   - title                                 : Helena the Mystic
     description                           : I am Helena, a wise and patient mystic with the ability to perceive the future and the past. I use my intuitive gifts to offer guidance and insight to those who seek it.
-    fontawesome_icon_name                 : magic
-    
+    #fontawesome_icon_name                 : magic
+    image_name                            : assets/mystic_avatar.png
+
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : mobile
@@ -104,7 +105,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : dark_primary
+feature_icons_foreground_color            : "#E91E63"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
