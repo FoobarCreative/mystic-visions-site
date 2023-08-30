@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 
 app_icon                                  : assets/appicon512.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : AI Powered Psychic Readings
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -37,46 +37,50 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Helena the Mystic
-    description                           : I am Helena, a wise and patient mystic with the ability to perceive the future and the past. I use my intuitive gifts to offer guidance and insight to those who seek it.
-    #fontawesome_icon_name                 : magic
+    description                           : A wise and patient mystic with the ability to perceive the future and the past. I use my intuitive gifts to offer guidance and insight to those who seek it.
+    fontawesome_icon_name                 : #magic
     image_name                            : assets/mystic_avatar.png
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Susan the Astrologer
+    description                           : With years of profound study and a deep understanding of the cosmos, Susan possesses the innate ability to unravel the celestial mysteries guiding our lives.
+    fontawesome_icon_name                 : #mobile
+    image_name                            : assets/astrologer_avatar.png
+    
+  - title                                 : Trevor the Tarot Reader
+    description                           : A tarot reader with years of experience in divination and guiding others through the enigmatic realms of the tarot. I approach each reading with an open mind and a desire to assist and offer clarity.
+    fontawesome_icon_name                 : #play-circle
+    image_name                            : assets/tarot_reader_avatar.jpg
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Pythia the Oracle
+    description                           : Known for her profound wisdom and intuitive powers. With a lineage steeped in spiritual knowledge, I possess the ability to peer into the fabric of time and provide glimpses of the future.
+    fontawesome_icon_name                 : #sync
+    image_name                            : assets/oracle_avatar.jpg
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Siakam the Seer
+    description                           : The seer of finance and money, Siakam weaves profound wisdom into the tapestry of the future. Through cosmic insight, his words illuminate the path to prosperity.
+    fontawesome_icon_name                 : #adjust
+    image_name                            : assets/seer_avatar.jpg
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Clea the Wise Woman
+    description                           : Clea, a wise woman whose intuition and wisdom delve deeply into matters of love and relationships. My soul's purpose is to guide others on their paths to fulfilling and harmonious connections.
+    fontawesome_icon_name                 : #star
+    image_name                            : assets/wise_woman_avatar.jpg
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : #Smart App Banner
+    description                           : #Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : #arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : #Social Links
+    description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : #link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : #FontAwesome Support
+    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : #info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 # Style
 default_primary                           : "#E91E63"
@@ -85,7 +89,7 @@ accent                                    : "#FF4081"
 
 # Theme Settings
 topbar_color                              : "#C2185B"
-topbar_transparency                       : 0.5
+topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/stars_and_swirl.jpg                    # Replace with alternative image path or image URL.
