@@ -28,6 +28,7 @@ your_name                                 : Foobar Creative
 your_link                                 : https://foobarcreative.com                     
 your_city                                 : Adelaide, Australia                                
 email_address                             : support@mysticvisions.app
+formspree_form_id                         : replaceme                                 # Enter your Formspree form ID here
 facebook_username                         : mysticvisionsapp                                          
 instagram_username                        : mysticvisions.app
 twitter_username                          : mysticvisionsai
@@ -104,7 +105,7 @@ device_color                              : coral                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : dark_primary #  "#1d63ea"
+link_color                                : "#C2185B"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
