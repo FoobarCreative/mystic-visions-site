@@ -154,7 +154,7 @@ exclude:
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:path
 
 # Markdown rendering
 markdown: kramdown
@@ -162,3 +162,4 @@ markdown: kramdown
 # Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
