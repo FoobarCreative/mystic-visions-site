@@ -105,6 +105,7 @@ We grant you a revocable, non-exclusive, non-transferable, limited right to inst
 
 - Your licence is limited to use of the App on an Apple device that you own or control, in accordance with the App Store's usage rules.
 - We, not Apple, are responsible for providing any maintenance and support for the App, and for addressing any claims relating to the App. Apple has no obligation to furnish maintenance or support.
+- We, not Apple, are responsible for the investigation, defence, settlement and discharge of any third-party claim that the App or your possession and use of it infringes that third party's intellectual property rights.
 - Apple is a third-party beneficiary of these Terms and may enforce them against you.
 - You represent that you are not located in a country subject to a US government embargo or designated as a "terrorist supporting" country, and that you are not listed on any US government list of prohibited or restricted parties.
 
