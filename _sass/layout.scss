@@ -535,6 +535,15 @@ nav > ul li a:active {
 	border-radius: 50%; /* Makes the image circular */
 }
 
+/* Size the Font Awesome feature icons to match the 60px avatar images */
+.feature .fa-stack {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	font-size: 30px; /* fa-stack-2x background circle = 2em = 60px */
+	flex-shrink: 0;
+}
+
 @media only screen and (max-width: 992px) {
 
 	.features {

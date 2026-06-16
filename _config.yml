@@ -48,15 +48,15 @@ features                                  :
 
   - title                                 : Palm Reading
     description                           : Snap a photo of your palm for a detailed reading — your heart, head, life and fate lines, your elemental hand type, and what they reveal.
-    fontawesome_icon_name                 : hand-sparkles
+    fontawesome_icon_name                 : hand
 
-  - title                                 : Seven Guides, One Circle
-    description                           : Chat with seven AI mystics — Mystic, Astrologer, Tarot Reader, Oracle, Seer, Wise Woman and your personal Horoscope Writer. Real conversations about love, career, healing and purpose.
+  - title                                 : Six Guides, One Circle
+    description                           : Chat with six AI mystics — the Mystic, Astrologer, Tarot Reader, Oracle, Seer and Wise Woman. Real conversations about love, career, healing and purpose.
     fontawesome_icon_name                 : comments
 
   - title                                 : Made Personal
     description                           : A short welcome conversation shapes everything. Your guides remember who you are, speak to your journey, and reply in your language.
-    fontawesome_icon_name                 : wand-magic-sparkles
+    fontawesome_icon_name                 : fingerprint
 
   - title                                 : Helena the Mystic
     description                           : A wise and patient mystic with the ability to perceive the future and the past. I use my intuitive gifts to offer guidance and insight to those who seek it.
