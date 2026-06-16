@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Palm Reading
     description                           : Snap a photo of your palm for a detailed reading — your heart, head, life and fate lines, your elemental hand type, and what they reveal.
-    fontawesome_icon_name                 : hand
+    fontawesome_icon_name                 : hand-paper
 
   - title                                 : Six Guides, One Circle
     description                           : Chat with six AI mystics — the Mystic, Astrologer, Tarot Reader, Oracle, Seer and Wise Woman. Real conversations about love, career, healing and purpose.
